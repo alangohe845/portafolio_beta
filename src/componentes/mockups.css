@@ -1,0 +1,28 @@
+.card {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .card-image {
+    flex-basis: 40%;
+    margin-right: 20px;
+  }
+  
+  .card-image img {
+    width: 100%;
+    height: auto;
+  }
+  
+  .card-content {
+    flex-basis: 60%;
+  }
+  
+  .card-content h2 {
+    margin-top: 0;
+    margin-bottom: 10px;
+  }
+  
+  .card-content p {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
